@@ -4,7 +4,7 @@
 
 # tiny-chess-01 entry
 
-A chess engine in 4,069 bytes of Python (main.py), built with the Codex
+A chess engine in 4,093 bytes of Python (main.py), built with the Codex
 coding agent for make.fun's "Build the strongest chess engine in 4 KB of
 Python" bounty.
 
